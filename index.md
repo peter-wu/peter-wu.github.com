@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: 非鱼的博客
+tagline: Keep It Simple, Stupid!
 ---
 {% include JB/setup %}
 
@@ -11,17 +11,6 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
 
 ## Update Author Attributes
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
     
 ## Sample Posts
 

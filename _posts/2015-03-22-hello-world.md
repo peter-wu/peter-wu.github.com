@@ -3,6 +3,6 @@ layout: post
 title: "Hello World"
 description: ""
 category: 
-tags: []
+tags: ["测试"]
 ---
 {% include JB/setup %}
