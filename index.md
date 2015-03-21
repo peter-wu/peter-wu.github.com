@@ -1,7 +1,7 @@
 ---
-layout: page
-title: 非鱼的博客
-tagline: Keep It Simple, Stupid!
+layout: default
+title:
+tagline:
 ---
 
 ## Posts
